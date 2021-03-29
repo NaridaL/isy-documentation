@@ -1,3 +1,5 @@
+:imagesdir: images
+
 = IsyFact-Einstieg: Inhalt
 
 // tag::inhalt[]
